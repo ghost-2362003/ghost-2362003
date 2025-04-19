@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <a href="shubhojyotidas800@gmail.com">
+  <a href="mailto:shubhojyotidas800@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="100" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/shubhojyoti-das-238779259" target="_blank">

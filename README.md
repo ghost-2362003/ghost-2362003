@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="mailto:shubhojyotidas800@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="100" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/shubhojyoti-das-238779259" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="100" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ghost-2362003" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="100" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 <ul align="left">
   <ul>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZuaHNmMXQzMzQzZWVqcmVwZTU0OGl3dTBzYzNkNHQ4Z2VnNG04aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ct387PQj5QHv2/giphy.gif" width="700"/>
-   <h3>Learning <strong>about semantic search and knwoledge Graphs</strong> diving deeply into <strong>NLP and LLMs</strong></h3>
+   <h3>Learning <strong>about semantic search and knowledge Graphs</strong> diving deeply into <strong>NLP and LLMs</strong></h3>
   </ul>
   <br>
   <ul>

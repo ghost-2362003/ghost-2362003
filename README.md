@@ -22,48 +22,70 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost2362003&label=Profile%20views&color=0e75b6&style=flat" alt="ghost2362003" /> </p>
 
+<br>
  <!-- Bulletin board -->
 <h2 align="center">📌 Bulletin Board</h2>
 
-<div align="left">
+<details>
+<summary>🛠️ <strong>Currently Working On</strong></summary>
+<br>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/><br>
+Predicting Land Average Temperature of earth for the next 20 years
+</details>
 
-🛠️ <strong>Currently Working On</strong>  
-<i>Predicting average land temperature of earth for the next 20 years</i>
+---
 
-<br><br>
+<details>
+<summary>📚 <strong>Currently Learning</strong></summary>
+<br>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/><br>
+Exploring HuggingFace Transformers 🤗, MLOps best practices.
+</details>
 
-📚 <strong>Currently Learning</strong>  
-<i>Dive into Deep Learning (Gluon), HuggingFace Transformers, and MLOps basics.</i>
+---
 
-<br><br>
+<details>
+<summary>💬 <strong>Ask Me About</strong></summary>
+<br>
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250"/><br>
+Machine Learning, basic of NLP and basics of Semantic Search 
+</details>
 
-💬 <strong>Ask Me About</strong>  
-<i>Machine Learning and basic of NLP!</i>
+---
 
-<br><br>
+<details>
+<summary> <strong>Latest Endeavour</strong></summary>
+<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFtZ3Myc3UwNzd0ZDNhdDl2d3F4Y3Z1ZW5nY2ZxaHFjd3ZubTFhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="250"/><br>
+Currently applied for Google Summer of Code this year in DBpedia
+</details>
 
-🔗 <strong>Let’s Connect</strong><br>
-<a href="https://www.linkedin.com/in/shubhojyoti-das-238779259" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
+---
 
-</div>
+<details>
+<summary>🔗 <strong>Let's Connect</strong></summary>
+<br>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhojyoti-das-238779259)
+</details>
 
+<br>
 <p>
   <h1 align="center" style="font-size: 60px; font-weight: bold; color: #00FFB3; text-shadow: 3px 3px 8px rgba(0, 255, 179, 0.7); letter-spacing: 2px; font-family: 'Fira-Code', sans-serif;">
     🚀 About Me
   </h1>
   
   <ul align="left">
-    An aspiring Machine learning Engineer who loves algorithms and always open to challenges
+    <strong>An aspiring Machine learning Engineer who loves algorithms and hardware and always open to challenges</strong>
   </ul>
-  <h2 align="left">Languages and Tools:</h2>
   <h3 align="left">Programming Languages</h3>
   
   <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
  <!-- Operating Systems -->
 <h3 align="left">Operating systems fluency</h3>
@@ -88,14 +110,21 @@
 <!-- Backend / Tools -->
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+<h3 align="left">Hardware platforms</h3>
+
+<!-- Hardware platforms -->
+![Arduino Board](https://img.shields.io/badge/Arduino_Board-MCU-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 <h3 align="left">Helpful tools</h3>
 
-<!-- Bonus: Git, Jupyter, VS Code, ... -->
+<!--- Git, Jupyter, VS Code, ... -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
@@ -107,8 +136,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 GitHub Stats
+<br><br>
 
+<h1 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghost-2362003&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-2362003&layout=compact&theme=radical" width="48%"/>

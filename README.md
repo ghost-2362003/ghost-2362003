@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=welcome+to+the+terminal;Welcome+to+ghost-2362003..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=welcome+to+the+terminal;welcome+to+ghost-2362003" alt="Typing SVG" />
 </p>
 <br>
 
@@ -12,7 +12,7 @@
   <a href="shubhojyotidas800@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="100" height="40"/>
   </a>
-  <a href="www.linkedin.com/in/shubhojyoti-das-238779259" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhojyoti-das-238779259" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="100" height="40"/>
   </a>
   <a href="https://github.com/ghost-2362003" target="_blank">

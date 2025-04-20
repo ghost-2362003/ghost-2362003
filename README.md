@@ -147,7 +147,13 @@ Currently applied in DBpedia for Google Summer of Code this year.
 
 <br><br>
 
-<h1 align="center">📊 GitHub Stats</h2>
+<h1 align="center">🏅 Holopin Board</h1>
+
+[![An image of @ghost2362003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghost2362003)](https://holopin.io/@ghost2362003)
+
+<br><br>
+
+<h1 align="center">📊 GitHub Stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghost-2362003&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-2362003&layout=compact&theme=radical" width="48%"/>

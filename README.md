@@ -30,7 +30,7 @@
 <summary>🛠️ <strong>Currently Working On</strong></summary>
 <br>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/><br>
-Predicting Land Average Temperature of earth for the next 20 years
+Predicting Land Average Temperature of earth for the next 20 years.
 </details>
 
 ---
@@ -39,7 +39,7 @@ Predicting Land Average Temperature of earth for the next 20 years
 <summary>📚 <strong>Currently Learning</strong></summary>
 <br>
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/><br>
-Exploring HuggingFace Transformers 🤗, MLOps best practices.
+Exploring HuggingFace Transformers 🤗 and developing related projects.
 </details>
 
 ---
@@ -48,16 +48,16 @@ Exploring HuggingFace Transformers 🤗, MLOps best practices.
 <summary>💬 <strong>Ask Me About</strong></summary>
 <br>
 <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250"/><br>
-Machine Learning, basic of NLP and basics of Semantic Search 
+Machine Learning, NLP and Semantic Search.
 </details>
 
 ---
 
 <details>
-<summary> <strong>Latest Endeavour</strong></summary>
+<summary>✨ <strong>Latest Endeavour</strong></summary>
 <br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFtZ3Myc3UwNzd0ZDNhdDl2d3F4Y3Z1ZW5nY2ZxaHFjd3ZubTFhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="250"/><br>
-Currently applied for Google Summer of Code this year in DBpedia
+Currently applied in DBpedia for Google Summer of Code this year. 
 </details>
 
 ---
@@ -65,6 +65,8 @@ Currently applied for Google Summer of Code this year in DBpedia
 <details>
 <summary>🔗 <strong>Let's Connect</strong></summary>
 <br>
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="250"/>
+  <br>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhojyoti-das-238779259)
 </details>
@@ -82,13 +84,13 @@ Currently applied for Google Summer of Code this year in DBpedia
   
   <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
  <!-- Operating Systems -->
-<h3 align="left">Operating systems fluency</h3>
+<h3 align="left">Operating systems</h3>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -104,6 +106,7 @@ Currently applied for Google Summer of Code this year in DBpedia
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 <h3 align="left">Backend services</h3>
 
@@ -128,7 +131,7 @@ Currently applied for Google Summer of Code this year in DBpedia
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<h3 align="left">DataBase softwares(SQL/NoSQL)</h3>
+<h3 align="left">DataBase softwares</h3>
 
  <!-- Database software -->
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)

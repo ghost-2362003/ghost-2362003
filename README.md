@@ -112,6 +112,7 @@ Currently applied in DBpedia for Google Summer of Code this year.
 
 <!-- Backend / Tools -->
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Blynk Dashboard](https://raw.githubusercontent.com/ghost-2362003/ghost-2362003/refs/heads/main/blynkLogo.svg)
 
 <h3 align="left">Hardware platforms</h3>
 

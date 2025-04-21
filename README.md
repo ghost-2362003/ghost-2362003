@@ -69,6 +69,7 @@ Currently applied in DBpedia for Google Summer of Code this year.
   <br>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhojyoti-das-238779259)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/shubhojyotidas)
 </details>
 
 <br>
@@ -77,8 +78,10 @@ Currently applied in DBpedia for Google Summer of Code this year.
     🚀 About Me
   </h1>
   
-  <ul align="left">
-    <strong>An aspiring Machine learning Engineer who loves algorithms and hardware and always open to challenges</strong>
+  <ul align="center">
+    <strong>An aspiring Machine learning Engineer who loves algorithms and hardware and is always open to challenges</strong>
+    <br>
+    <strong>Adapting and evolving according to the industry needs and standards...</strong>
   </ul>
 
    <!-- Operating Systems -->

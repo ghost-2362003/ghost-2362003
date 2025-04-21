@@ -80,24 +80,42 @@ Currently applied in DBpedia for Google Summer of Code this year.
   <ul align="left">
     <strong>An aspiring Machine learning Engineer who loves algorithms and hardware and always open to challenges</strong>
   </ul>
-  <h3 align="left">Programming Languages</h3>
+
+   <!-- Operating Systems -->
+<h3 align="left">Operating systems</h3>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
   <!-- Languages -->
+  <h3 align="left">Programming Languages</h3>
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
- <!-- Operating Systems -->
-<h3 align="left">Operating systems</h3>
+  <!-- package managers -->
+  <h3 align="left">Package Managers and Virtual Environments</h3>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white)
+![conda](https://img.shields.io/badge/conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
+![venv](https://img.shields.io/badge/Python%20venv-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h3 align="left">Machine learning libraries and tools</h3>
+ <!-- Database software -->
+<h3 align="left">DataBase softwares</h3>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!-- ML Libraries -->
+<h3 align="left">Machine learning libraries and tools</h3>
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -108,42 +126,34 @@ Currently applied in DBpedia for Google Summer of Code this year.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+<!-- Backend / Tools -->
 <h3 align="left">Backend services</h3>
 
-<!-- Backend / Tools -->
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Blynk Dashboard](https://raw.githubusercontent.com/ghost-2362003/ghost-2362003/refs/heads/main/blynkLogo.svg)
 
+<!-- Hardware platforms -->
 <h3 align="left">Hardware platforms</h3>
 
-<!-- Hardware platforms -->
 ![Arduino Board](https://img.shields.io/badge/Arduino_Board-MCU-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+<!--- Git, Jupyter, VS Code, ... -->
 <h3 align="left">Helpful tools</h3>
 
-<!--- Git, Jupyter, VS Code, ... -->
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+<!-- VS code, vim, Zed, Intellij, Arduino IDE-->
 <h3 align="left">Code editors and IDEs</h3>
 
-<!-- VS code, vim, Zed, Intellij, Arduino IDE-->
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-white?style=for-the-badge&logo=zedindustries&logoColor=084CCF)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-<h3 align="left">DataBase softwares</h3>
-
- <!-- Database software -->
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br><br>
 

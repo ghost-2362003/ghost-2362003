@@ -171,9 +171,3 @@ Currently applied in DBpedia for Google Summer of Code this year.
   <img src="https://github-readme-stats.vercel.app/api?username=ghost-2362003&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-2362003&layout=compact&theme=radical" width="48%"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ghost-2362003&theme=radical&hide_border=true" width="95%"/>
-</p>
-
-</p>

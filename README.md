@@ -57,7 +57,7 @@ Machine Learning, NLP and Semantic Search.
 <summary>✨ <strong>Latest Endeavour</strong></summary>
 <br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFtZ3Myc3UwNzd0ZDNhdDl2d3F4Y3Z1ZW5nY2ZxaHFjd3ZubTFhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="250"/><br>
-Nothing ro say.... 
+Nothing to say.... 
 </details>
 
 ---

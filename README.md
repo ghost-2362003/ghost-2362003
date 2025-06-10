@@ -30,7 +30,7 @@
 <summary>🛠️ <strong>Currently Working On</strong></summary>
 <br>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/><br>
-Predicting Land Average Temperature of earth for the next 20 years.
+Implementing the paper on biometric gender identification using the plamar and dorsal sides of a hand  
 </details>
 
 ---
@@ -48,7 +48,7 @@ Exploring HuggingFace Transformers 🤗 and developing related projects.
 <summary>💬 <strong>Ask Me About</strong></summary>
 <br>
 <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250"/><br>
-Machine Learning, NLP and Semantic Search.
+  Database Management Systems and Discrete maths...
 </details>
 
 ---
@@ -57,7 +57,7 @@ Machine Learning, NLP and Semantic Search.
 <summary>✨ <strong>Latest Endeavour</strong></summary>
 <br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFtZ3Myc3UwNzd0ZDNhdDl2d3F4Y3Z1ZW5nY2ZxaHFjd3ZubTFhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="250"/><br>
-Nothing to say.... 
+Learning about the semantic web
 </details>
 
 ---

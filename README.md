@@ -108,7 +108,7 @@ None for now...
 ![venv](https://img.shields.io/badge/Python%20venv-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
  <!-- Database software -->
-<h3 align="left">DataBase softwares</h3>
+<h3 align="left">Database softwares</h3>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)

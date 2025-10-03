@@ -54,15 +54,6 @@ Semantic Web properties, NLP, Generative AI
 ---
 
 <details>
-<summary>✨ <strong>Latest Endeavour</strong></summary>
-<br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFtZ3Myc3UwNzd0ZDNhdDl2d3F4Y3Z1ZW5nY2ZxaHFjd3ZubTFhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="250"/><br>
-None for now...
-</details>
-
----
-
-<details>
 <summary>🔗 <strong>Let's Connect</strong></summary>
 <br>
 <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="250"/>

@@ -30,7 +30,7 @@
 <summary>🛠️ <strong>Currently Working On</strong></summary>
 <br>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/><br>
-Implementing the paper on biometric gender identification using the plamar and dorsal sides of a hand and customer churn rate analysis
+None for now
 </details>
 
 ---
@@ -39,7 +39,7 @@ Implementing the paper on biometric gender identification using the plamar and d
 <summary>📚 <strong>Currently Learning</strong></summary>
 <br>
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/><br>
- Database Management Systems and Discrete maths...
+ Algorithms and Linear Algebra...
 </details>
 
 ---
@@ -48,7 +48,7 @@ Implementing the paper on biometric gender identification using the plamar and d
 <summary>💬 <strong>Ask Me About</strong></summary>
 <br>
 <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250"/><br>
-Semantic Web and NLP 
+Semantic Web properties, NLP, Generative AI 
 </details>
 
 ---
@@ -57,7 +57,7 @@ Semantic Web and NLP
 <summary>✨ <strong>Latest Endeavour</strong></summary>
 <br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFtZ3Myc3UwNzd0ZDNhdDl2d3F4Y3Z1ZW5nY2ZxaHFjd3ZubTFhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="250"/><br>
-Implementing the paper on biometric gender identification using the plamar and dorsal sides of a hand and customer churn rate analysis
+None for now...
 </details>
 
 ---

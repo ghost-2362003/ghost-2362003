@@ -138,7 +138,7 @@ Semantic Web properties, NLP, Generative AI
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghost-2362003&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ghost-2362003&theme=tokyonight&center=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ghost-2362003&theme=rose-pine&center=true)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&center=true&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 

@@ -6,6 +6,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ghost-2362003&theme=radical)](https://git.io/streak-stats)
+
+<br>
 <p align="center">
   <a href="mailto:shubhojyotidas800@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -136,6 +140,9 @@ Semantic Web properties, NLP, Generative AI
 ![Zed](https://img.shields.io/badge/Zed-white?style=for-the-badge&logo=zedindustries&logoColor=084CCF)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+<br><br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghost-2362003&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
 

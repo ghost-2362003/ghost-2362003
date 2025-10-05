@@ -3,7 +3,7 @@
 </p>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=chalk&title=Repositories,Experience,Issues,PullRequest,Commits&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 <p align="center">
@@ -77,6 +77,7 @@ Semantic Web properties, NLP, Generative AI
 ![Java](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+[![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
 
   <!-- package managers -->
   <h3 align="left">Package Managers and Virtual Environments</h3>
@@ -91,8 +92,6 @@ Semantic Web properties, NLP, Generative AI
 <h3 align="left">Database softwares</h3>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!-- ML Libraries -->
@@ -118,6 +117,7 @@ Semantic Web properties, NLP, Generative AI
 <h3 align="left">Hardware platforms</h3>
 
 ![Arduino Board](https://img.shields.io/badge/Arduino_Board-MCU-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+[![Espressif](https://img.shields.io/badge/Espressif-ED1C24?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
 
 <!--- Git, Jupyter, VS Code, ... -->
 <h3 align="left">Helpful tools</h3>

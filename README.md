@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=5000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=welcome+to+the+terminal;welcome+to+ghost-2362003" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+ghost+-+2362003;welcome+to+ghost-2362003" alt="Typing SVG" />
 </p>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=chalk&title=Repositories,Experience,Issues,PullRequest,Commits&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
-
 <p align="center">
   <a href="mailto:shubhojyotidas800@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -16,6 +15,9 @@
   </a>
   <a href="https://github.com/ghost-2362003" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linktr.ee/shubhojyotidas" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
 
@@ -48,18 +50,6 @@ None for now
 <br>
 <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250"/><br>
 Semantic Web properties, NLP, Generative AI 
-</details>
-
----
-
-<details>
-<summary>🔗 <strong>Let's Connect</strong></summary>
-<br>
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="250"/>
-  <br>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhojyoti-das-238779259)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/shubhojyotidas)
 </details>
 
 <br>

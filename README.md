@@ -1,13 +1,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+ghost+-+2362003;welcome+to+ghost-2362003" alt="Typing SVG" />
 </p>
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ghost-2362003)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ghost-2362003&theme=jolly)](https://git.io/streak-stats)
 
 <br>
 <p align="center">
@@ -142,7 +141,7 @@ Semantic Web properties, NLP, Generative AI
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 <br><br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghost-2362003&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghost-2362003&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
 

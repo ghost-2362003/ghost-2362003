@@ -7,7 +7,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ghost-2362003&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ghost-2362003)](https://git.io/streak-stats)
 
 <br>
 <p align="center">

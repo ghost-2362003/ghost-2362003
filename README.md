@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+ghost+-+2362003;welcome+to+ghost-2362003" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=50&duration=3000&pause=1000&color=c91060&center=true&vCenter=true&width=435&lines=Welcome+to+ghost+-+2362003;Welcome+to+ghost-2362003" alt="Typing SVG" />
 </p>
+<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&center=true&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ghost-2362003&theme=jolly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ghost-2362003&theme=tokyonight&center=true)](https://git.io/streak-stats)
 
 <br>
 <p align="center">
@@ -64,7 +65,7 @@ Semantic Web properties, NLP, Generative AI
   <ul align="center">
     <strong>An aspiring Machine learning Engineer who loves algorithms and hardware and is always open to challenges</strong>
     <br>
-    <strong>Adapting and evolving according to the industry needs and standards...</strong>
+    <strong>Adapting and evolving according to the Industry needs and standards...</strong>
   </ul>
 
    <!-- Operating Systems -->

@@ -3,13 +3,6 @@
 </p>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&center=true&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ghost-2362003&theme=tokyonight&center=true)](https://git.io/streak-stats)
-
-<br>
 <p align="center">
   <a href="mailto:shubhojyotidas800@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -140,19 +133,18 @@ Semantic Web properties, NLP, Generative AI
 ![Zed](https://img.shields.io/badge/Zed-white?style=for-the-badge&logo=zedindustries&logoColor=084CCF)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-<br><br>
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghost-2362003&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br><br>
-
-<h1 align="center">🏅 Holopin Board</h1>
-
-[![An image of @ghost2362003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghost2362003)](https://holopin.io/@ghost2362003)
-
 <br><br>
 
 <h1 align="center">📊 GitHub Stats</h1>
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghost-2362003&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ghost-2362003&theme=tokyonight&center=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&center=true&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![An image of @ghost2362003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghost2362003)](https://holopin.io/@ghost2362003)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghost-2362003&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-2362003&layout=compact&theme=radical" width="48%"/>

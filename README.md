@@ -44,12 +44,11 @@ None for now
 
 <details>
 <summary>💬 <strong>Ask Me About</strong></summary>
-<br>
+
 <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250"/><br>
 Semantic Web properties, NLP, Generative AI 
 </details>
 
-<br>
 <p>
   <h1 align="center" style="font-size: 60px; font-weight: bold; color: #00FFB3; text-shadow: 3px 3px 8px rgba(0, 255, 179, 0.7); letter-spacing: 2px; font-family: 'Fira-Code', sans-serif;">
     🚀 About Me

@@ -3,9 +3,8 @@
 </p>
 <br>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF2NXMwaWt4eHNiMDI2aTJmeWh1ODB4ajUzNWVtOGZ0Yjl3MXA3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif" alt="Centered GIF" width="1000">
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br>
 
 <p align="center">

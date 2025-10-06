@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=50&duration=3000&pause=1000&color=c91060&center=true&vCenter=true&width=435&lines=Welcome+to+ghost+-+2362003;Welcome+to+ghost-2362003" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=46&duration=3000&pause=1000&color=623CE9FF&center=true&vCenter=true&width=435&lines=Welcome+to+ghost+-+2362003;Welcome+to+ghost-2362003" alt="Typing SVG" />
 </p>
-<br>
 
+<div style="text-align: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&center=true&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15" alt="trophy" />
+</div>
+
+<br>
 <p align="center">
   <a href="mailto:shubhojyotidas800@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -51,7 +55,7 @@ Semantic Web properties, NLP, Generative AI
 
 <p>
   <h1 align="center" style="font-size: 60px; font-weight: bold; color: #00FFB3; text-shadow: 3px 3px 8px rgba(0, 255, 179, 0.7); letter-spacing: 2px; font-family: 'Fira-Code', sans-serif;">
-    🚀 About Me
+    🚀 About me
   </h1>
   
   <ul align="center">
@@ -134,17 +138,17 @@ Semantic Web properties, NLP, Generative AI
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 <br><br>
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h1 align="center">🌟 GitHub Stats</h1>
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghost-2362003&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ghost-2362003&theme=rose-pine&center=true)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&center=true&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![An image of @ghost2362003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghost2362003)](https://holopin.io/@ghost2362003)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghost-2362003&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghost-2362003&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-2362003&layout=compact&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=ghost-2362003&theme=rose-pine&center=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghost-2362003&show_icons=true&theme=transparent" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-2362003&layout=compact&theme=transparent" width="48%"/>
+</p>
+
+[![An image of @ghost2362003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghost2362003)](https://holopin.io/@ghost2362003)

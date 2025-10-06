@@ -148,8 +148,8 @@ Semantic Web properties, NLP, Generative AI
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghost-2362003&show_icons=true&theme=transparent" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-2362003&layout=compact&theme=transparent" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghost-2362003&show_icons=true&theme=material-palenight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-2362003&layout=compact&theme=material-palenight" width="48%"/>
 </p>
 
 [![An image of @ghost2362003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghost2362003)](https://holopin.io/@ghost2362003)

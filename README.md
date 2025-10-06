@@ -133,6 +133,7 @@ Semantic Web properties, NLP, Generative AI
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Nano](https://img.shields.io/badge/Nano-8A2BE2?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-white?style=for-the-badge&logo=zedindustries&logoColor=084CCF)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -140,7 +141,7 @@ Semantic Web properties, NLP, Generative AI
 
 <h1 align="center">🌟 GitHub Stats</h1>
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghost-2362003&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghost-2362003&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ghost-2362003&theme=rose-pine&center=true" alt="GitHub Streak" />

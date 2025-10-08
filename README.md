@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=46&duration=3000&pause=1000&color=623CE9FF&center=true&vCenter=true&width=435&lines=Welcome+to+ghost+-+2362003;Welcome+to+ghost-2362003" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bonheur+Royale&size=64&duration=3000&letterSpacing=0.1rem&pause=1000&color=623CE9FF&center=true&vCenter=true&width=700&height=70&lines=Welcome+to+ghost+Terminal;Welcome+to+ghost-2362003" alt="Typing SVG" />
 </p>
 
 <div style="text-align: center;">

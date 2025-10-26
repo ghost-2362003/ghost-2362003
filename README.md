@@ -3,8 +3,12 @@
 </p>
 
 <div style="text-align: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&center=true&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&center=true&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15" alt="trophy"/>
 </div>
+
+<p align="center">
+  <img src="./octocat-img.png" alt="Octocat" width="200"/>
+</p>
 
 <br>
 <p align="center">

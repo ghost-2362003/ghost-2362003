@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bonheur+Royale&size=64&duration=3000&letterSpacing=0.1rem&pause=1000&color=623CE9FF&center=true&vCenter=true&width=700&height=70&lines=Welcome+to+ghost+Terminal;Welcome+to+ghost-2362003" alt="Typing SVG" />
 </p>
 
-[![trophy](https://github-trophies.vercel.app/?username=ghost-2362003&theme=nord&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=ghost-2362003&theme=darkhub&margin-w=20&no-bg=true&no-frame=true&title=MultiLanguage,LongTimeUser,Organizations,PullRequest,Commits,Issue,Repositories,Followers)](https://github.com/lucthienphong1120/github-trophies)
 
 <p align="center">
   <img src="./octocat-img.png" alt="Octocat" width="200"/>
@@ -155,3 +155,4 @@ Semantic Web properties, NLP, Generative AI
 </p>
 
 [![An image of @ghost2362003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghost2362003)](https://holopin.io/@ghost2362003)
+![GitHub Profile Trophy Demo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)

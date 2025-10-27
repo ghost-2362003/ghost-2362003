@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bonheur+Royale&size=64&duration=3000&letterSpacing=0.1rem&pause=1000&color=623CE9FF&center=true&vCenter=true&width=700&height=70&lines=Welcome+to+ghost+Terminal;Welcome+to+ghost-2362003" alt="Typing SVG" />
 </p>
 
-<div style="text-align: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghost-2362003&theme=discord&center=true&title=Repositories,Experience,Issues,PullRequest,Commits,Followers&margin-w=15" alt="trophy"/>
-</div>
+[![trophy](https://github-trophies.vercel.app/?username=ghost-2362003&theme=nord&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/lucthienphong1120/github-trophies)
 
 <p align="center">
   <img src="./octocat-img.png" alt="Octocat" width="200"/>

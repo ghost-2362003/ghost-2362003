@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bonheur+Royale&size=64&duration=3000&letterSpacing=0.1rem&pause=1000&color=623CE9FF&center=true&vCenter=true&width=700&height=70&lines=Welcome+to+ghost+Terminal;Welcome+to+ghost-2362003" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=64&duration=6000&letterSpacing=0.1rem&pause=1000&color=AA81CAFF&center=true&vCenter=true&width=700&height=70&lines=Welcome+to+ghost+Terminal" alt="Typing SVG" />
 </p>
 
 [![trophy](https://github-trophies.vercel.app/?username=ghost-2362003&theme=darkhub&margin-w=20&no-bg=true&no-frame=true&title=MultiLanguage,LongTimeUser,Organizations,PullRequest,Commits,Issue,Repositories,Followers)](https://github.com/lucthienphong1120/github-trophies)
